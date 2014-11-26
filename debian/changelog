@@ -1,3 +1,10 @@
+tartarus (0.9.8-2) unstable; urgency=low
+
+  [ Mathis Klooss ]
+   * added xz support
+   
+ -- Mathis Klooss <mathis.klooss@mage-profis.de>  Wed, 26 Nov 2014 10:12:23 +0100
+
 tartarus (0.9.8-1) unstable; urgency=low
 
   [ Stefan Tomanek ]
